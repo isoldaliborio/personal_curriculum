@@ -1,0 +1,19 @@
+<style>
+body{
+    background-color: #F9F5EB;
+}
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: rgb(83, 169, 184);
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color:#66BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: #66BFBF
+}
+</style>
